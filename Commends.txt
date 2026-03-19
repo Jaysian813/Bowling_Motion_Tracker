@@ -1,0 +1,6 @@
+Updating Github
+
+git add main.py
+git commit -m "Updated main.py: focused on head movement and hand placement"
+git push
+
