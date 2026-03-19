@@ -1,6 +1,0 @@
-Updating Github
-
-git add main.py
-git commit -m "Comment"
-git push
-

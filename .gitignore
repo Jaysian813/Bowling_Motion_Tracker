@@ -1,0 +1,24 @@
+# Video and Media (Keep these local only)
+*.mp4
+*.mov
+*.avi
+*.webm
+*.mkv
+
+# Python and Environment
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
+venv/
+Jay's_env/
+
+# Data and Logs
+*.json
+*.csv
+*.log
+
+# System Files
+.DS_Store
+Thumbs.db

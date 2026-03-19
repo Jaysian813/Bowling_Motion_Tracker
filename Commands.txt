@@ -1,6 +1,6 @@
 Updating Github
 
-git add main.py
+git add (. or file name)
 git commit -m "Comment"
-git push
-
+git push #send
+git pull #receive
